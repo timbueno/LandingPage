@@ -1,0 +1,304 @@
+/* Color Variables
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Color Palette */
+:root {
+  /* Pink */
+  --palette-pink: #FA8293;
+}
+
+/* 
+The below colors are analogous to the Apple system palette:
+https://noahgilmore.com/blog/dark-mode-uicolor-compatibility/ 
+*/
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --label: rgba(0.0, 0.0, 0.0, 1.0);
+    --secondary-label: rgba(60.0, 60.0, 67.0, 0.6);
+    --tertiary-label: rgba(60.0, 60.0, 67.0, 0.3);
+    --system-fill: rgba(120.0, 120.0, 128.0, 0.2);
+    --secondary-system-fill: rgba(120.0, 120.0, 128.0, 0.16);
+    --tertiary-system-fill: rgba(118.0, 118.0, 128.0, 0.12);
+    --quaternary-system-fill: rgba(116.0, 116.0, 128.0, 0.08);
+    --system-background: rgba(255.0, 255.0, 255.0, 1.0);
+    --secondary-system-background: rgba(242.0, 242.0, 247.0, 1.0);
+    --tertiary-system-background: rgba(255.0, 255.0, 255.0, 1.0);
+    --system-grouped-background: rgba(242.0, 242.0, 247.0, 1.0);
+    --secondary-system-grouped-background: rgba(255.0, 255.0, 255.0, 1.0);
+    --tertiary-system-grouped-background: rgba(242.0, 242.0, 247.0, 1.0);
+    --shadow-color: rgba(149, 157, 165, 0.2);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --label: rgba(255.0, 255.0, 255.0, 1.0);
+    --secondary-label: rgba(235.0, 235.0, 245.0, 0.6);
+    --tertiary-label: rgba(235.0, 235.0, 245.0, 0.3);
+    --system-fill: rgba(120.0, 120.0, 128.0, 0.36);
+    --secondary-system-fill: rgba(120.0, 120.0, 128.0, 0.32);
+    --tertiary-system-fill: rgba(118.0, 118.0, 128.0, 0.24);
+    --quaternary-system-fill: rgba(118.0, 118.0, 128.0, 0.18);
+    --system-background: rgba(0.0, 0.0, 0.0, 1.0);
+    --secondary-system-background: rgba(28.0, 28.0, 30.0, 1.0);
+    --tertiary-system-background: rgba(44.0, 44.0, 46.0, 1.0);
+    --system-grouped-background: rgba(0.0, 0.0, 0.0, 1.0);
+    --secondary-system-grouped-background: rgba(28.0, 28.0, 30.0, 1.0);
+    --tertiary-system-grouped-background: rgba(44.0, 44.0, 46.0, 1.0);
+    --shadow-color: rgba(0.0, 0.0, 0.0, 0.0);
+  }
+
+  /* Invert the footer Deadpan logo color in dark mode. */
+  .apps-company > .company img {
+    filter: invert(100%);
+  }
+}
+
+/* Color Assignment */
+:root {
+  --link-unvisited-color: var(--palette-pink);
+  --link-visited-color: var(--palette-pink);
+
+  --header-background-color: var(--secondary-system-background);
+  --hero-background-color: var(--system-background);
+  --tagline-background-color: var(--system-background);
+  --app-store-badge-background-color: var(--system-background);
+  --app-store-badge-lozenge-color: var(--secondary-system-background);
+  --features-background-color: var(--system-background);
+  --privacy-background-color: var(--system-background);
+  --presskit-background-color: var(--system-background);
+  --footer-background-color: var(--secondary-system-background);
+
+  /* --body-background-color: var(--system-background); */
+  --body-background-color: var(--system-background);
+  --contact-background-color: var(--tertiary-system-background);
+}
+
+/* Normalized Components
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+html {
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-size: 16px;
+}
+
+body {
+  background: var(--body-background-color);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 834px;
+  padding: 2rem 2rem;
+
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: auto
+}
+
+h1, h2, h3, h4 {
+  color: var(--label);
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 0.5rem 0;
+}
+
+h1:first-of-type {
+  margin: 0;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 2rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  line-height: 1.5;
+  margin-bottom: 0;
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: var(--label);
+}
+
+a:link, a:hover, a:active {
+  color: var(--link-unvisited-color);
+  text-decoration: none;
+}
+
+a:visited {
+  color: var(--link-visited-color);
+  text-decoration: none;
+}
+
+/* Row and column system
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.row {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3rem;
+  margin: 5rem 0;
+}
+
+.full-span-column {
+  flex: 1 1 auto;
+}
+
+.half-span-column {
+  flex: 0 1 calc(50% - 0.5rem);
+}
+
+.third-span-column {
+  flex: 0 1 30%;
+}
+
+/* Apply this selector to an `<img>` that is wrapped in a `.content` block to achieve a centered image. */
+.centered-image {
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+/* Hero section
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.hero {
+}
+
+.hero img {
+  max-width: 300px;
+  max-height: 300px;
+  border-radius: 2rem;
+  box-shadow: var(--shadow-color) 0px 8px 24px;
+}
+
+.hero > .portrait {
+  flex: initial;
+}
+
+.hero > .welcome-text {
+  flex: 1 1 0;
+}
+
+/* Apps / Company section
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.apps-company {
+  text-align: center;
+  gap: 5rem;
+}
+
+.apps-company img {
+  /* max-width: 9.375rem; */
+  max-width: 8rem;
+}
+
+.apps-company > .apps > .inner-app-row {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+/* Footer section
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+footer {
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+}
+
+footer p {
+  text-align: center;
+  margin: 1rem;
+  color: var(--tertiary-label);
+}
+
+      */
+/* Media Query Overrides
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Large View Port */
+/* Includes all iPhones taller than iPhone 8 in horizontal mode.
+Also includes base model iPad in vertical orientation. */
+@media only screen and (max-width: 960px) {
+  .row {
+    margin: 3rem 0;
+  }
+}
+
+/* Medium View Port */
+@media only screen and (max-width: 720px) {
+
+  .hero img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+  .row {
+    gap: 3rem;
+    margin: 3rem 0;
+  }
+
+  .contact {
+    margin: 3rem 0;
+  }
+
+  .contact > .inner-contact-row {
+    gap: 2rem;
+  }
+
+  .hero > .portrait {
+    flex: 0 1 100%;
+  }
+
+  .hero > .welcome-text {
+    flex: 0 1 100%;
+  }
+
+  /* .apps-company h2:first-child {
+    margin-top: 0;
+  } */
+
+  .apps-company > .apps > .inner-app-row {
+    gap: 2rem;
+  }
+
+  /* Change to a full width column layout for all half span column elements. */
+  .half-span-column {
+    flex: 0 1 100%;
+  }
+
+    /* Change to a full width column layout for all third span column elements. */
+  .third-span-column {
+    flex: 0 1 100%;
+  }
+}
+
+/* Small View Port */
+@media only screen and (max-width: 375px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+  
