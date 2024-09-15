@@ -70,7 +70,6 @@ https://noahgilmore.com/blog/dark-mode-uicolor-compatibility/
   --presskit-background-color: var(--system-background);
   --footer-background-color: var(--secondary-system-background);
 
-  /* --body-background-color: var(--system-background); */
   --body-background-color: var(--system-background);
   --contact-background-color: var(--tertiary-system-background);
 }
@@ -92,12 +91,11 @@ body {
 
 main {
   margin: 0 auto;
-  max-width: 834px;
+  max-width: 720px;
   padding: 2rem 2rem;
-
   flex-grow: 1;
   flex-shrink: 0;
-  flex-basis: auto
+  flex-basis: auto;
 }
 
 h1, h2, h3, h4 {
@@ -179,17 +177,23 @@ a:visited {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .hero {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 3rem;
+  max-width: 960px;
+  margin: 5rem auto;
 }
 
 .hero img {
-  max-width: 300px;
-  max-height: 300px;
+  max-width: 320px;
+  max-height: 320px;
   border-radius: 2rem;
   box-shadow: var(--shadow-color) 0px 8px 24px;
 }
 
 .hero > .portrait {
-  flex: initial;
+  flex: 0 0 auto;
 }
 
 .hero > .welcome-text {
@@ -200,19 +204,33 @@ a:visited {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .apps-company {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
   gap: 5rem;
+  max-width: 960px;
+  margin: 5rem auto;
+  text-align: center;
+}
+
+.apps, .company {
+  flex: 1 1 0;
+}
+
+.apps {
+  max-width: 400px;
 }
 
 .apps-company img {
-  /* max-width: 9.375rem; */
   max-width: 8rem;
 }
 
+.apps-company h2 {
+  margin-top: 0;
+}
+
 .apps-company > .apps > .inner-app-row {
-  align-items: center;
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
   gap: 1.5rem;
@@ -233,7 +251,6 @@ footer p {
   color: var(--tertiary-label);
 }
 
-      */
 /* Media Query Overrides
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -241,8 +258,24 @@ footer p {
 /* Includes all iPhones taller than iPhone 8 in horizontal mode.
 Also includes base model iPad in vertical orientation. */
 @media only screen and (max-width: 960px) {
-  .row {
-    margin: 3rem 0;
+
+  .portrait {
+    max-width: 300px;
+  }
+
+  .welcome-text {
+    max-width: 400px;
+  }
+
+  .hero, .apps-company {
+    flex-direction: column;
+    align-items: center;
+    margin: 3rem auto;
+  }
+
+  .hero > .portrait, .hero > .welcome-text,
+  .apps, .company {
+    flex: 0 1 100%;
   }
 }
 
@@ -267,18 +300,6 @@ Also includes base model iPad in vertical orientation. */
     gap: 2rem;
   }
 
-  .hero > .portrait {
-    flex: 0 1 100%;
-  }
-
-  .hero > .welcome-text {
-    flex: 0 1 100%;
-  }
-
-  /* .apps-company h2:first-child {
-    margin-top: 0;
-  } */
-
   .apps-company > .apps > .inner-app-row {
     gap: 2rem;
   }
@@ -288,7 +309,7 @@ Also includes base model iPad in vertical orientation. */
     flex: 0 1 100%;
   }
 
-    /* Change to a full width column layout for all third span column elements. */
+  /* Change to a full width column layout for all third span column elements. */
   .third-span-column {
     flex: 0 1 100%;
   }
@@ -300,5 +321,3 @@ Also includes base model iPad in vertical orientation. */
     font-size: 12px;
   }
 }
-
-  
