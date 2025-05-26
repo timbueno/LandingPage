@@ -8,3 +8,7 @@ theme = 'hugo-bearblog'
 
 [outputs]
     home = ["html", "rss"]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
