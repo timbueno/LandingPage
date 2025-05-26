@@ -1,0 +1,12 @@
+{{ if not (.Param "hideSiteTitle") }}
+<a href="{{ "" | relURL }}" class="site-title" style="display: flex; align-items: center; text-decoration: none;">
+  <img src="/images/avatar-app-icon-clipped-small.png"
+       alt="Picture of Tim Bueno sitting at the Brooklyn Botanic Garden"
+       style="height: 3em; width: auto; margin-right: 0.75em;">
+  <h2>{{ .Site.Title }}</h2>
+</a>
+{{ end }}
+<nav class="main-nav">
+  {{- partial "nav.html" . -}}
+  <span class="nav-bullet">•</span><a href="https://deadpan.io">Deadpan</a><span class="nav-bullet">•</span><a href="{{.Site.BaseURL }}index.xml">RSS</a>
+</nav>

@@ -1,0 +1,25 @@
+{{ $icon := .Get "icon" }}
+{{ $title := .Get "title" }}
+{{ $platform := .Get "platform" }}
+{{ $url := .Get "url" }}
+
+<div class="app-section">
+    <div class="app-icon">
+        {{ if $url }}
+        <a href="{{ $url }}" target="_blank" rel="noopener">
+        {{ end }}
+        <img src="/images/apps/{{ $icon }}" alt="{{ $title }} App Icon">
+        {{ if $url }}
+        </a>
+        {{ end }}
+    </div>
+    <div class="app-content">
+        {{ if $url }}
+        <h2><a href="{{ $url }}" target="_blank" rel="noopener">{{ $title }}</a></h2>
+        {{ else }}
+        <h2>{{ $title }}</h2>
+        {{ end }}
+        <h3>{{ $platform }}</h3>
+        <p>{{ .Inner }}</p>
+    </div>
+</div> 

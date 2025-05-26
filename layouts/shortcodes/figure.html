@@ -1,0 +1,15 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $title := .Get "title" | default "" }}
+{{ $width := .Get "width" | default "auto" }}
+{{ $height := .Get "height" | default "auto" }}
+
+<figure class="blog-image">
+  <img 
+    src="{{ $src }}" 
+    alt="{{ $alt }}" 
+    title="{{ $title }}" 
+    width="{{ $width }}" 
+    height="{{ $height }}"
+  />
+</figure> 

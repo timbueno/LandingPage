@@ -1,0 +1,10 @@
+baseURL = 'https://timbueno.com/'
+languageCode = 'en-us'
+title = 'Tim Bueno'
+theme = 'hugo-bearblog'
+
+[params]
+    hideMadeWithLine = true
+
+[outputs]
+    home = ["html", "rss"]
