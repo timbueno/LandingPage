@@ -11,7 +11,6 @@ lastmod: 2025-03-02T13:58:22-0400
 type: blog
 categories:
 - "blog"
-url: /2025/03/02/im-doing-a-pretty-good.html
 mastodon:
   id: 114094135212351813
   username: timbueno

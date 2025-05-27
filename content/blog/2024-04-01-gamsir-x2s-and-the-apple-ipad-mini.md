@@ -59,7 +59,6 @@ photos_with_metadata:
 - url: /images/blog/2024-04-01-gamsir-x2s-and-the-apple-ipad-mini/img-1259.jpeg
   width: 600
   height: 300
-url: /2024/04/01/gamsir-xs-and.html
 mastodon:
   id: 112198660009961369
   username: timbueno

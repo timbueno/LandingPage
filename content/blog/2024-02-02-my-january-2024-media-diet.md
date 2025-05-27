@@ -11,7 +11,6 @@ lastmod: 2024-02-02T13:03:28-0400
 type: blog
 categories:
 - "blog"
-url: /2024/02/02/my-january-media.html
 mastodon:
   id: 111862967488144903
   username: timbueno

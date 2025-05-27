@@ -11,7 +11,6 @@ lastmod: 2025-01-01T12:50:05-0400
 type: blog
 categories:
 - "blog"
-url: /2025/01/01/my-december-media-diet.html
 mastodon:
   id: 113754126935486711
   username: timbueno

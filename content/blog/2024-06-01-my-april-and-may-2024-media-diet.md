@@ -11,7 +11,6 @@ lastmod: 2024-06-02T22:15:33-0400
 type: blog
 categories:
 - "blog"
-url: /2024/06/01/my-april-and.html
 mastodon:
   id: 112544974716521693
   username: timbueno

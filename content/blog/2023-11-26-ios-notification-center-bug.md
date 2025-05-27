@@ -11,7 +11,6 @@ lastmod: 2023-11-26T16:25:49-0400
 type: blog
 categories:
 - "blog"
-url: /2023/11/26/ios-notification-center.html
 mastodon:
   id: 111478725114307643
   username: timbueno

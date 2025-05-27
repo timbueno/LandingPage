@@ -19,7 +19,6 @@ photos_with_metadata:
 - url: /images/blog/2024-11-01-my-october-2024-media-diet/dscf2612.jpeg
   width: 3813
   height: 2542
-url: /2024/11/01/my-october-media.html
 mastodon:
   id: 113408063014706840
   username: timbueno

@@ -11,7 +11,6 @@ lastmod: 2023-12-01T17:44:20-0400
 type: blog
 categories:
 - "blog"
-url: /2023/12/01/my-november-media.html
 mastodon:
   id: 111507263834834197
   username: timbueno

@@ -11,7 +11,6 @@ lastmod: 2023-11-06T21:06:56-0400
 type: blog
 categories:
 - "blog"
-url: /2023/11/06/my-app-defaults.html
 ---
 Recently, folks have been sharing their default apps in a bunch of different categories. (I’m told the podcast [Hemispheric Views](https://hemisphericviews.com/) started this. I plan on listening soon.)
 

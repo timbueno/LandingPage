@@ -11,7 +11,6 @@ lastmod: 2024-03-31T13:01:32-0400
 type: blog
 categories:
 - "blog"
-url: /2024/03/31/my-february-and.html
 mastodon:
   id: 112191373789621812
   username: timbueno

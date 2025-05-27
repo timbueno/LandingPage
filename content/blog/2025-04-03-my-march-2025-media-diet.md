@@ -19,7 +19,6 @@ photos_with_metadata:
 - url: /images/blog/2025-04-03-my-march-2025-media-diet/dscf3729.jpeg
   width: 1200
   height: 800
-url: /2025/04/03/my-march-media-diet.html
 mastodon:
   id: 114274569799374672
   username: timbueno

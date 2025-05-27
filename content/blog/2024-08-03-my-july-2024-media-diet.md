@@ -19,7 +19,6 @@ photos_with_metadata:
 - url: /images/blog/2024-08-03-my-july-2024-media-diet/dscf2061.jpeg
   width: 800
   height: 1200
-url: /2024/08/03/my-july-media.html
 mastodon:
   id: 112899800904783032
   username: timbueno

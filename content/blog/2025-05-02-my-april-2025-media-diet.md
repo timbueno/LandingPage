@@ -11,7 +11,6 @@ lastmod: 2025-05-02T08:46:13-0400
 type: blog
 categories:
 - "blog"
-url: /2025/05/02/my-april-media-diet.html
 mastodon:
   id: 114438315411150975
   username: timbueno

@@ -11,7 +11,6 @@ lastmod: 2024-09-01T18:04:45-0400
 type: blog
 categories:
 - "blog"
-url: /2024/09/01/my-september-media.html
 mastodon:
   id: 113063655164593044
   username: timbueno
