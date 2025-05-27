@@ -1,20 +1,7 @@
 ---
-layout: post
 title: "My December 2023 Media Diet"
-microblog: false
-guid: http://timbueno.micro.blog/2024/01/01/my-december-media.html
-post_id: 3815607
-custom_summary: false
-summary: ""
-date: 2024-01-01T16:38:11-0400
-lastmod: 2024-01-01T16:41:07-0400
-type: blog
-categories:
-- "blog"
-mastodon:
-  id: 111682616888874991
-  username: timbueno
-  hostname: mastodon.social
+date: 2024-01-01T10:45:35-0400
+draft: false
 ---
 This year was the first in nearly 10 years that I could not finish my reading goal. I ended the year with [18 books](https://blog.timbueno.com/reading/); just shy of my goal of 20. I am a bit bummed that I couldn't meet the goal but ultimately I think that the blame for it lies in a lack of reading momentum due to not connecting with many of the books I _did_ read. I'll get over it. On to next year's goal...
 

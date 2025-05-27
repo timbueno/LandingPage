@@ -1,20 +1,7 @@
 ---
-layout: post
 title: "My September 2024 Media Diet"
-microblog: false
-guid: http://timbueno.micro.blog/2024/10/01/my-september-media.html
-post_id: 4358691
-custom_summary: false
-summary: ""
-date: 2024-10-01T17:33:46-0400
-lastmod: 2024-10-01T17:33:46-0400
-type: blog
-categories:
-- "blog"
-mastodon:
-  id: 113234309308315052
-  username: timbueno
-  hostname: mastodon.social
+date: 2024-10-01T10:45:35-0400
+draft: false
 ---
 The past month saw the release of my new app, [Scoot](https://deadpan.io/scoot/). It is always a humbling experience launching a new app on the App Store with a very limited social media following. Not many downloads at the moment but I think this app is some of my best work to date. I built Scoot for my girlfriend and that will be enough to keep it in development for a while but I really hope other people check it out!
 

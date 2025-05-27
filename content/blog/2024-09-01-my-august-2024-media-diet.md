@@ -1,20 +1,7 @@
 ---
-layout: post
 title: "My August 2024 Media Diet"
-microblog: false
-guid: http://timbueno.micro.blog/2024/09/01/my-september-media.html
-post_id: 4316726
-custom_summary: false
-summary: ""
-date: 2024-09-01T14:14:11-0400
-lastmod: 2024-09-01T18:04:45-0400
-type: blog
-categories:
-- "blog"
-mastodon:
-  id: 113063655164593044
-  username: timbueno
-  hostname: mastodon.social
+date: 2024-09-01T10:45:35-0400
+draft: false
 ---
 The past month saw me bringing my new app to life and watching a whole lot of [Love Island](https://en.wikipedia.org/wiki/Love_Island_(American_TV_series)), a guilty pleasure in our apartment. I've also began experimenting with using Anthropic's [Claude AI](https://claude.ai/) to boost my programming productivity and I'm disappointed to say that... its boosted my output by like 2x. To be completely honest, I'm not sure how I feel about that.
 

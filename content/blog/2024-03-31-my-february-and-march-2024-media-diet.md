@@ -1,20 +1,7 @@
 ---
-layout: post
 title: "My February and March 2024 Media Diet"
-microblog: false
-guid: http://timbueno.micro.blog/2024/03/31/my-february-and.html
-post_id: 3941665
-custom_summary: false
-summary: ""
-date: 2024-03-31T13:01:32-0400
-lastmod: 2024-03-31T13:01:32-0400
-type: blog
-categories:
-- "blog"
-mastodon:
-  id: 112191373789621812
-  username: timbueno
-  hostname: mastodon.social
+date: 2024-03-31T10:45:35-0400
+draft: false
 ---
 Well this blog is starting to rot on the vine isn't it? 
 

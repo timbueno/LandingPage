@@ -1,20 +1,7 @@
 ---
-layout: post
 title: "My January 2024 Media Diet"
-microblog: false
-guid: http://timbueno.micro.blog/2024/02/02/my-january-media.html
-post_id: 3863550
-custom_summary: false
-summary: ""
-date: 2024-02-02T13:03:28-0400
-lastmod: 2024-02-02T13:03:28-0400
-type: blog
-categories:
-- "blog"
-mastodon:
-  id: 111862967488144903
-  username: timbueno
-  hostname: mastodon.social
+date: 2024-02-02T10:45:35-0400
+draft: false
 ---
 I have struggled to post anything to the blog this past month. I have been trying to update my app [Bound](https://deadpan.io/bound/) due to new Google Drive API changes and the conversations with Google have been incredibly slow and boring. In the mean time, I have been filling my time by playing a few games and rewatching the Lord of the Rings trilogy with some friends.
 

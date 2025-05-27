@@ -1,20 +1,7 @@
 ---
-layout: post
 title: "My November 2023 Media Diet"
-microblog: false
-guid: http://timbueno.micro.blog/2023/12/01/my-november-media.html
-post_id: 3722149
-custom_summary: false
-summary: ""
 date: 2023-12-01T17:23:36-0400
-lastmod: 2023-12-01T17:44:20-0400
-type: blog
-categories:
-- "blog"
-mastodon:
-  id: 111507263834834197
-  username: timbueno
-  hostname: mastodon.social
+draft: false
 ---
 I am a huge fan of Jason Kottke and his website, [kottke.org](https://kottke.org). Periodically, Jason posts a summary of what he's been watching, reading, playing, and doing. I look forward to these posts and thought it would be fun to start doing the same.
 

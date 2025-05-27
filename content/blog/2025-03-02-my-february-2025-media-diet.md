@@ -1,27 +1,7 @@
 ---
-layout: post
 title: "My February 2025 Media Diet"
-microblog: false
-guid: http://timbueno.micro.blog/2025/03/02/im-doing-a-pretty-good.html
-post_id: 5203858
-custom_summary: false
-summary: ""
-date: 2025-03-02T13:57:53-0400
-lastmod: 2025-03-02T13:58:22-0400
-type: blog
-categories:
-- "blog"
-mastodon:
-  id: 114094135212351813
-  username: timbueno
-  hostname: mastodon.social
-bluesky:
-  id: bafyreid25lmute45egaqwldgs6tifnbmtnbit2ozsky3xjsi22boomdyoq
-  url: 'at://did:plc:mui4vttf6wweobxhposspp76/app.bsky.feed.post/3ljfz7sh7fo2b'
-  link: 'https://bsky.app/profile/did:plc:mui4vttf6wweobxhposspp76/post/3ljfz7sh7fo2b'
-  handle: tim.bueno.social
-  hostname: bsky.social
-  did: 'did:plc:mui4vttf6wweobxhposspp76'
+date: 2025-03-02T10:45:35-0400
+draft: false
 ---
 I’m doing a pretty good job of keeping myself distracted from… well, everything, I guess. But it’s hard when the state of the world manages to seep into every conversation, social media feed, and news post. I injured my left foot this month doing something fairly routine (and appropriately embarrassing) and I'm slowly recovering from that. It's given me a lot of time to sit on the couch and watch some mediocre stuff! 
 

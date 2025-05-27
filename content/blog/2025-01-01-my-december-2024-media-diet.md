@@ -1,31 +1,7 @@
 ---
-layout: post
 title: "My December 2024 Media Diet"
-microblog: false
-guid: http://timbueno.micro.blog/2025/01/01/my-december-media-diet.html
-post_id: 4567366
-custom_summary: false
-summary: ""
-date: 2025-01-01T12:50:05-0400
-lastmod: 2025-01-01T12:50:05-0400
-type: blog
-categories:
-- "blog"
-mastodon:
-  id: 113754126935486711
-  username: timbueno
-  hostname: mastodon.social
-bluesky:
-  id: bafyreiewtg44xbj5i4micj5x35cjruwao3qgq2ugyk47ca2467wctja25e
-  url: 'at://did:plc:mui4vttf6wweobxhposspp76/app.bsky.feed.post/3leozfwxvw22e'
-  link: 'https://bsky.app/profile/did:plc:mui4vttf6wweobxhposspp76/post/3leozfwxvw22e'
-  handle: tim.bueno.social
-  hostname: bsky.social
-  did: 'did:plc:mui4vttf6wweobxhposspp76'
-threads:
-  id: 17891945175139912
-  url: https://www.threads.net/@bueno/post/DESlEO3tbEQ
-  username: bueno
+date: 2025-01-01T10:45:35-0400
+draft: false
 ---
 December is always filled with a trip back home to spend time with family and friends. It's a great experience but is a whirlwind of travel and leaves me a bit worn out at the end. Between holiday parties I played some games (see below) and mapped out a plan for my next project. 
 

@@ -1,39 +1,7 @@
 ---
-layout: post
 title: "My March 2025 Media Diet"
-microblog: false
-guid: http://timbueno.micro.blog/2025/04/03/my-march-media-diet.html
-post_id: 5291350
-custom_summary: false
-summary: ""
 date: 2025-04-03T10:45:35-0400
-lastmod: 2025-04-03T10:45:35-0400
-type: blog
-categories:
-- "blog"
-images:
-- /images/blog/2025-04-03-my-march-2025-media-diet/dscf3729.jpeg
-photos:
-- /images/blog/2025-04-03-my-march-2025-media-diet/dscf3729.jpeg
-photos_with_metadata:
-- url: /images/blog/2025-04-03-my-march-2025-media-diet/dscf3729.jpeg
-  width: 1200
-  height: 800
-mastodon:
-  id: 114274569799374672
-  username: timbueno
-  hostname: mastodon.social
-bluesky:
-  id: bafyreie4dwflw5ic4jeatuicsh2iwirdqlix7ce44tegcn5raqjk3b34ji
-  url: 'at://did:plc:mui4vttf6wweobxhposspp76/app.bsky.feed.post/3llw5dy6cgp25'
-  link: 'https://bsky.app/profile/did:plc:mui4vttf6wweobxhposspp76/post/3llw5dy6cgp25'
-  handle: tim.bueno.social
-  hostname: bsky.social
-  did: 'did:plc:mui4vttf6wweobxhposspp76'
-threads:
-  id: 18050858801211503
-  url: https://www.threads.net/@bueno/post/DH_P833qNPd
-  username: bueno
+draft: false
 ---
 {{< figure src="/images/blog/2025-04-03-my-march-2025-media-diet/dscf3729.jpeg" title="DSCF3729.jpeg" width="1200" height="800" >}}
 
