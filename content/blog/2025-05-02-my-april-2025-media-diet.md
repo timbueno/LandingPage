@@ -1,28 +1,7 @@
 ---
-layout: post
 title: "My April 2025 Media Diet"
-microblog: false
-guid: http://timbueno.micro.blog/2025/05/02/my-april-media-diet.html
-post_id: 5335141
-custom_summary: false
-summary: ""
 date: 2025-05-02T08:46:13-0400
-lastmod: 2025-05-02T08:46:13-0400
-type: blog
-categories:
-- "blog"
-url: /2025/05/02/my-april-media-diet.html
-mastodon:
-  id: 114438315411150975
-  username: timbueno
-  hostname: mastodon.social
-bluesky:
-  id: bafyreielgysjd2hhgdkvx7syn6ovf75h3vaa5donlzo6gnjpkswzhkmfsq
-  url: 'at://did:plc:mui4vttf6wweobxhposspp76/app.bsky.feed.post/3lo6ucunptu2f'
-  link: 'https://bsky.app/profile/did:plc:mui4vttf6wweobxhposspp76/post/3lo6ucunptu2f'
-  handle: tim.bueno.social
-  hostname: bsky.social
-  did: 'did:plc:mui4vttf6wweobxhposspp76'
+draft: false
 ---
 This past month flew by, and honestly, I don’t feel like I accomplished all that much! I’ve been playing a few video games in my downtime and continuing to refine my gaming PC/Odin 2 Portal streaming setup.
 

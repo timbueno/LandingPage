@@ -1,29 +1,7 @@
 ---
-layout: post
 title: "My October 2024 Media Diet"
-microblog: false
-guid: http://timbueno.micro.blog/2024/11/01/my-october-media.html
-post_id: 4415552
-custom_summary: false
-summary: ""
-date: 2024-11-01T10:01:09-0400
-lastmod: 2024-11-01T10:01:09-0400
-type: blog
-categories:
-- "blog"
-images:
-- /images/blog/2024-11-01-my-october-2024-media-diet/dscf2612.jpeg
-photos:
-- /images/blog/2024-11-01-my-october-2024-media-diet/dscf2612.jpeg
-photos_with_metadata:
-- url: /images/blog/2024-11-01-my-october-2024-media-diet/dscf2612.jpeg
-  width: 3813
-  height: 2542
-url: /2024/11/01/my-october-media.html
-mastodon:
-  id: 113408063014706840
-  username: timbueno
-  hostname: mastodon.social
+date: 2024-11-01T10:45:35-0400
+draft: false
 ---
 {{< figure src="/images/blog/2024-11-01-my-october-2024-media-diet/dscf2612.jpeg" title="DSCF2612.jpeg" width="3813" height="2542" >}}
 

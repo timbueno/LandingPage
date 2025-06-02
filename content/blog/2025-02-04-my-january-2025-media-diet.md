@@ -1,28 +1,7 @@
 ---
-layout: post
 title: "My January 2025 Media Diet"
-microblog: false
-guid: http://timbueno.micro.blog/2025/02/04/my-january-media-diet.html
-post_id: 4875910
-custom_summary: false
-summary: ""
-date: 2025-02-04T11:31:46-0400
-lastmod: 2025-02-04T11:31:46-0400
-type: blog
-categories:
-- "blog"
-url: /2025/02/04/my-january-media-diet.html
-mastodon:
-  id: 113946338966125967
-  username: timbueno
-  hostname: mastodon.social
-bluesky:
-  id: bafyreicwshomyvisrm74etivgdpsv74hcidxbvtaeuo52b2jtbo24d2j7a
-  url: 'at://did:plc:mui4vttf6wweobxhposspp76/app.bsky.feed.post/3lheevtpxkl26'
-  link: 'https://bsky.app/profile/did:plc:mui4vttf6wweobxhposspp76/post/3lheevtpxkl26'
-  handle: tim.bueno.social
-  hostname: bsky.social
-  did: 'did:plc:mui4vttf6wweobxhposspp76'
+date: 2025-02-04T10:45:35-0400
+draft: false
 ---
 This post is a few days late but who's really reading this anyway right? I spent January planning on a serious upgrade to my home network and server. Proxmox is amazing and it seems like it was absolutely the right choice for me. So much easier to maintain and experiment than my old Mac mini ever was. I've got an [Ubiquiti network stack](https://store.ui.com/us/en/category/cloud-gateways-compact/collections/cloud-gateway-max/products/ucg-max) on the way and plan on installing it into a 10" rack system within a bookcase. Crossing my fingers that everything fits!
 

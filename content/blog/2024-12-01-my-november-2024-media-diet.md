@@ -1,32 +1,7 @@
 ---
-layout: post
 title: "My November 2024 Media Diet"
-microblog: false
-guid: http://timbueno.micro.blog/2024/12/01/my-november-media.html
-post_id: 4495411
-custom_summary: false
-summary: ""
-date: 2024-12-01T13:54:59-0400
-lastmod: 2024-12-01T13:54:59-0400
-type: blog
-categories:
-- "blog"
-url: /2024/12/01/my-november-media.html
-mastodon:
-  id: 113578850730966431
-  username: timbueno
-  hostname: mastodon.social
-bluesky:
-  id: bafyreibd7c34ld5zxma47jkjdqcngbooqkdxe5zylup5c3fydtizfzmylm
-  url: 'at://did:plc:mui4vttf6wweobxhposspp76/app.bsky.feed.post/3lcb6lk55lc2v'
-  link: 'https://bsky.app/profile/did:plc:mui4vttf6wweobxhposspp76/post/3lcb6lk55lc2v'
-  handle: tim.bueno.social
-  hostname: bsky.social
-  did: 'did:plc:mui4vttf6wweobxhposspp76'
-threads:
-  id: 17890645527132976
-  url: https://www.threads.net/@bueno/post/DDC320mNPXL
-  username: bueno
+date: 2024-12-01T10:45:35-0400
+draft: false
 ---
 November was filled with fun side-quests like setting up my [Anbernic RG40XXV](https://anbernic.com/products/rg-40xxv) and overhauling my home network setup. I also dipped into my electrical engineering background and did a little microcontroller programming and a bit of soldering. I learned that the wireless capable [ESP32 system](https://shop.m5stack.com/products/m5stack-nanoc6-dev-kit) has come quite far in the past few years and through projects like [HomeSpan](https://github.com/HomeSpan/HomeSpan), makes adding custom made systems to Apple’s HomeKit quite simple. 
 

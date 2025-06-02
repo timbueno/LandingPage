@@ -1,21 +1,11 @@
 ---
-layout: post
 title: "My App Defaults"
-microblog: false
-guid: http://timbueno.micro.blog/2023/11/06/my-app-defaults.html
-post_id: 3682671
-custom_summary: false
-summary: ""
 date: 2023-11-06T21:04:11-0400
-lastmod: 2023-11-06T21:06:56-0400
-type: blog
-categories:
-- "blog"
-url: /2023/11/06/my-app-defaults.html
+draft: false
 ---
-Recently, folks have been sharing their default apps in a bunch of different categories. (I’m told the podcast [Hemispheric Views](https://hemisphericviews.com/) started this. I plan on listening soon.)
+Recently, folks have been sharing their default apps in a bunch of different categories. (I'm told the podcast [Hemispheric Views](https://hemisphericviews.com/) started this. I plan on listening soon.)
 
-I’m a sucker for learning about other people’s workflows and seeing how I can make better use of my time, so this was right up my alley.
+I'm a sucker for learning about other people's workflows and seeing how I can make better use of my time, so this was right up my alley.
 
 In recent years I have drastically simplified the amount of third party apps I use. I felt like I was on a hamster wheel of finding and using the latest mail client, RSS reader, to-do list, etc. 
 

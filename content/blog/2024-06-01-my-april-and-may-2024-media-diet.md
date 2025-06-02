@@ -1,21 +1,7 @@
 ---
-layout: post
 title: "My April and May 2024 Media Diet"
-microblog: false
-guid: http://timbueno.micro.blog/2024/06/01/my-april-and.html
-post_id: 4135077
-custom_summary: false
-summary: ""
-date: 2024-06-01T23:46:51-0400
-lastmod: 2024-06-02T22:15:33-0400
-type: blog
-categories:
-- "blog"
-url: /2024/06/01/my-april-and.html
-mastodon:
-  id: 112544974716521693
-  username: timbueno
-  hostname: mastodon.social
+date: 2024-06-01T10:45:35-0400
+draft: false
 ---
 Since the last time I posted I injured myself, got better, had family visit, bought a camera, started learning how to actually use the camera and completely overhauled how I used my home server. Now I'm trying to figure out the best workflow for processing the photos I take. Maybe a few of those photos will make an appearance on this blog! Who knows. 
 

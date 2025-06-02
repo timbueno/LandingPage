@@ -1,21 +1,7 @@
 ---
-layout: post
 title: "iOS Notification Center Bug"
-microblog: false
-guid: http://timbueno.micro.blog/2023/11/26/ios-notification-center.html
-post_id: 3714542
-custom_summary: false
-summary: ""
 date: 2023-11-26T16:25:49-0400
-lastmod: 2023-11-26T16:25:49-0400
-type: blog
-categories:
-- "blog"
-url: /2023/11/26/ios-notification-center.html
-mastodon:
-  id: 111478725114307643
-  username: timbueno
-  hostname: mastodon.social
+draft: false
 ---
 When I started this blog, my intention was to resist the urge to use it as an outlet for complaining. The tech commentator world is full enough of that already and I don’t need another space to vent. 
 

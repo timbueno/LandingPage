@@ -1,29 +1,7 @@
 ---
-layout: post
 title: "My July 2024 Media Diet"
-microblog: false
-guid: http://timbueno.micro.blog/2024/08/03/my-july-media.html
-post_id: 4238984
-custom_summary: false
-summary: ""
-date: 2024-08-03T15:43:52-0400
-lastmod: 2024-08-04T11:47:25-0400
-type: blog
-categories:
-- "blog"
-images:
-- /images/blog/2024-08-03-my-july-2024-media-diet/dscf2061.jpeg
-photos:
-- /images/blog/2024-08-03-my-july-2024-media-diet/dscf2061.jpeg
-photos_with_metadata:
-- url: /images/blog/2024-08-03-my-july-2024-media-diet/dscf2061.jpeg
-  width: 800
-  height: 1200
-url: /2024/08/03/my-july-media.html
-mastodon:
-  id: 112899800904783032
-  username: timbueno
-  hostname: mastodon.social
+date: 2024-08-03T10:45:35-0400
+draft: false
 ---
 {{< figure src="/images/blog/2024-08-03-my-july-2024-media-diet/dscf2061.jpeg" title="DSCF2061.jpeg" width="800" height="1200" >}}
 
