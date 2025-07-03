@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a8c310d6ed7d8cd",
+        "id": "de30d87961a1deb9",
         "type": "tabs",
         "children": [
           {
-            "id": "fe14e1fb5c8f9ba5",
+            "id": "f286f7914d95e4ef",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,6 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe14e1fb5c8f9ba5",
-  "lastOpenFiles": []
+  "active": "f286f7914d95e4ef",
+  "lastOpenFiles": [
+    "content/blog/2027-07-01 My June 2025 Media Diet.md",
+    "content/blog/2025-05-02-my-april-2025-media-diet.md",
+    "content/blog/2025-06-01-my-may-2025-media-diet.md",
+    "content/blog/2023-11-06-my-app-defaults.md"
+  ]
 }
