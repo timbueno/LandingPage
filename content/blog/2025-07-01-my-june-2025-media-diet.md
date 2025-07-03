@@ -1,6 +1,6 @@
 ---
-title: My May 2025 Media Diet
-date: 2025-06-02
+title: My June 2025 Media Diet
+date: 2025-07-01
 draft: false
 modified: 2025-06-02T13:47:28-04:00
 ---
