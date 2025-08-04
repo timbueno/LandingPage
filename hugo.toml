@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Tim Bueno'
 theme = 'hugo-bearblog'
 
+# Ignore template files during build
+ignoreFiles = ["(?i).*Template.*\\.md$"]
+
 [params]
     hideMadeWithLine = true
 
@@ -12,3 +15,4 @@ theme = 'hugo-bearblog'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
