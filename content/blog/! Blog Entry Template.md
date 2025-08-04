@@ -2,8 +2,6 @@
 title: EDIT THIS
 date: 2025-XX-XX EDIT THIS
 draft: true
-_build:
-  publish: false
 modified: 2025-08-01T13:47:28-04:00
 ---
 
