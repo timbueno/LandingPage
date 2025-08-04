@@ -1,0 +1,2 @@
+# Ignore template files during build
+ignoreFiles = ["[Tt]emplate.*\\.md$"]
