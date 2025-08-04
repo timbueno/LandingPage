@@ -12,3 +12,9 @@ theme = 'hugo-bearblog'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+	
+[module]
+  [[module.mounts]]
+    excludeFiles = 'blog/^(?=.*!)(?=.*[Tt]emplate).*\.md$'
+    source = 'content'
+    target = 'content'
