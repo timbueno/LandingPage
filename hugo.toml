@@ -13,8 +13,5 @@ theme = 'hugo-bearblog'
   [caches.images]
     dir = ':cacheDir/images'
 	
-[module]
-  [[module.mounts]]
-    excludeFiles = '.*[Tt]emplate.*\.md$'
-    source = 'content'
-    target = 'content'
+# Ignore template files during build
+ignoreFiles = ["Template.*\\.md$"]
