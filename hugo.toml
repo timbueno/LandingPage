@@ -15,6 +15,6 @@ theme = 'hugo-bearblog'
 	
 [module]
   [[module.mounts]]
-    excludeFiles = 'blog/^(?=.*!)(?=.*[Tt]emplate).*\.md$'
+    excludeFiles = '.*[Tt]emplate.*\.md$'
     source = 'content'
     target = 'content'
