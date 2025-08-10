@@ -19,4 +19,10 @@ modified: 2025-01-01T13:47:28-04:00
 
 🕹️ Metroid Prime Remastered.
 
+🍿 Jurassic World Rebirth.
+
+📺 Gatchiakata.
+
+📺 Dan Da Dan.
+
 OLED Switch Lite Mod.
