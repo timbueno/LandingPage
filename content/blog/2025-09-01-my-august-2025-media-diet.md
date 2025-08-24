@@ -39,5 +39,20 @@ modified: 2025-01-01T13:47:28-04:00
 
 📺 Foundation.
 
+📺 Alien: Earth.
+
+📺 Platonic.
+
+📺 Vampire Dormitory.
+
+🕹️ Diablo 3.
+
+🕹️ Chrono Trigger.
 
 OLED Switch Lite Mod.
+
+Migrating off of Obsidian back to Apple Notes.
+
+Starting to update apps to iOS 26.
+
+Loving HeyTea.
