@@ -29,4 +29,15 @@ modified: 2025-01-01T13:47:28-04:00
 
 🍿 Weapons.
 
+🕹️ Herdling.
+
+🕹️ God of War.
+
+🕹️ The Rogue Prince of Persia.
+
+📺 Spy X Family.
+
+📺 Foundation.
+
+
 OLED Switch Lite Mod.
