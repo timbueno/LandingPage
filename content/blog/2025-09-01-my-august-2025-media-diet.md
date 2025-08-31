@@ -49,6 +49,12 @@ modified: 2025-01-01T13:47:28-04:00
 
 🕹️ Chrono Trigger.
 
+🕹️ Mother 3.
+
+🍿 Mission: Impossible - The Final Reckoning.
+
+🍿 I Know What You Did Last Summer.
+
 OLED Switch Lite Mod.
 
 Migrating off of Obsidian back to Apple Notes.
