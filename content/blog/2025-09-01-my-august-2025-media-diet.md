@@ -9,13 +9,13 @@ August flew by. I can’t believe it’s almost fall. We booked a trip to Paris 
 
 In other news, I installed an OLED screen in my Zelda Switch Lite that I picked up in Japan last year. Taking it apart and replacing the screen was nerve-wracking, but somehow everything went smoothly. It looks incredible. And yes, I’ve had way too many matcha lattes from HEYTEA lately. No regrets. You can’t stop me.
 
-🍿 **[28 Years Later](https://en.wikipedia.org/wiki/28_Years_Later).** The original *28 Days Later* is one of the all-time great zombie movies. *Weeks* wasn’t nearly as strong, but I still had high hopes for this third entry. I think those hopes were mostly met. The jump scares were solid and I liked the exploration of how a post-zombie-apocalyptic world might rebuild. Two more movies are coming and I’m absolutely in.
+🍿 **[28 Years Later](https://en.wikipedia.org/wiki/28_Years_Later).** The original *28 Days Later* is one of the all-time great zombie movies. *Weeks* wasn’t nearly as strong, but I still had high hopes for this third entry. I think those hopes were mostly met. The jump scares were solid and I liked the exploration of how a post-zombie-apocalyptic world might rebuild. Two more movies are coming and I’m absolutely in. 👍
 
 🍿 **[Happy Gilmore 2](https://en.wikipedia.org/wiki/Happy_Gilmore_2).** The first *Happy Gilmore* is comfort food for me. I’ve seen it at least a dozen times. This sequel leans hard into fan service and I think that was the right move. Not high cinema, but a fun two-hour hang.
 
 📺 **[Foundation (Season 3)](https://en.wikipedia.org/wiki/Foundation_(TV_series)).** Season 1 was kind of a slog, but I’m all in now. The time-jumping structure keeps things fresh and Lee Pace as Empire is just incredible. The themes are very *Dune*, which makes sense for a sci-fi story from the 60s.
 
-🍿 **[Materialists](https://en.wikipedia.org/wiki/Materialists_%28film%29).** The summer of Pedro Pascal continues. Great Friday night romcom. Celine Song is really good at this.
+🍿 **[Materialists](https://en.wikipedia.org/wiki/Materialists_%28film%29).** The summer of Pedro Pascal continues. Great Friday night romcom. Celine Song is really good at this. 
 
 🕹️ **[South of Midnight](https://en.wikipedia.org/wiki/South_of_Midnight).** Stop-motion aesthetic, bayou setting, light platforming and action puzzles. The ending sequence didn’t quite land and the controls are a bit chunky, but the story kept me going.
 
@@ -29,19 +29,19 @@ In other news, I installed an OLED screen in my Zelda Switch Lite that I picked 
 
 🕹️ **[Mafia](https://en.wikipedia.org/wiki/Mafia_(video_game)).** Picked this up for five bucks and definitely got my money’s worth. Loved the story and the atmosphere, especially the radio broadcasts and newspaper snippets. The combat and controls felt heavy though. I’ll probably continue the series, but not right away.
 
-🍿 **[Weapons](https://en.wikipedia.org/wiki/Weapons_(2025_film)).** Absolutely loved this. The climactic scene is worth the whole runtime. The structure was really effective and I liked that it let the twist sit and stew instead of immediately ending the story. More horror from this director, please.
+🍿 **[Weapons](https://en.wikipedia.org/wiki/Weapons_(2025_film)).** Absolutely loved this. The climactic scene is worth the whole runtime. The structure was really effective and I liked that it let the twist sit and stew instead of immediately ending the story. More horror from this director, please. 👍
 
 🕹️ **[Herdling](https://herdling.game).** I’ll play anything Panic puts out. This one is a slow walk through the wilderness with your growing herd in a quiet post-apocalypse. I was shocked when one of my animals died and had to step away from the game for a bit. I’ll come back to it soon.
 
-🕹️ **[God of War](https://en.wikipedia.org/wiki/God_of_War_(2005_video_game)).** I never had a PS2, so I missed this series back in the day. Finally played the original via emulation on my Android handheld with widescreen hacks and HD texture packs. It totally holds up. The camera control is dated, but the combat is so fluid and satisfying that I didn’t care. Planning to play *God of War 2* on my next international flight.
+🕹️ **[God of War](https://en.wikipedia.org/wiki/God_of_War_(2005_video_game)).** I never had a PS2, so I missed this series back in the day. Finally played the original via emulation on my Android handheld with widescreen hacks and HD texture packs. It totally holds up. The camera control is dated, but the combat is so fluid and satisfying that I didn’t care. Planning to play *God of War 2* on my next international flight. 👍
 
 🕹️ **[The Rogue Prince of Persia](https://en.wikipedia.org/wiki/The_Rogue_Prince_of_Persia).** A roguelite version of *Prince of Persia* is exactly my thing. It launched on Game Pass, so of course I had to try it. The movement and combat are slick. My only complaint is that it’s not always clear where to go next, but that’s probably one Google search away from being solved.
 
-📺 **[Spy × Family](https://en.wikipedia.org/wiki/Spy_%C3%97_Family).** I had tried starting this a few times but it never clicked. My girlfriend wanted to watch it, so we gave it another go and I’m glad we did. Season 3 comes out in October and we’re now fully on board.
+📺 **[Spy × Family](https://en.wikipedia.org/wiki/Spy_%C3%97_Family).** I had tried starting this a few times but it never clicked. My girlfriend wanted to watch it, so we gave it another go and I’m glad we did. Season 3 comes out in October and we’re now fully on board. 👍
 
-📺 **[Alien: Earth](https://en.wikipedia.org/wiki/Alien:_Earth).** I’ll watch anything in the *Alien* universe. The world is so specific and exactly what I want from horror sci-fi. This new show is hitting all the right notes. I’m only halfway through the season, but it’s already become appointment viewing on Wednesdays.
+📺 **[Alien: Earth](https://en.wikipedia.org/wiki/Alien:_Earth).** I’ll watch anything in the *Alien* universe. The world is so specific and exactly what I want from horror sci-fi. This new show is hitting all the right notes. I’m only halfway through the season, but it’s already become appointment viewing on Wednesdays. 👍
 
-📺 **[Platonic](https://en.wikipedia.org/wiki/Platonic_(TV_series)).** Charming buddy comedy with Rose Byrne and Seth Rogen. Apple TV really nails the feel-good sitcom vibe. Season 2 is airing now and I’m still enjoying it.
+📺 **[Platonic](https://en.wikipedia.org/wiki/Platonic_(TV_series)).** Charming buddy comedy with Rose Byrne and Seth Rogen. Apple TV really nails the feel-good sitcom vibe. Season 2 is airing now and I’m still enjoying it. 👍
 
 📺 **[Vampire Dormitory](https://en.wikipedia.org/wiki/Vampire_Dormitory).** Slice-of-life gay vampire anime? It somehow works. My girlfriend loved it and honestly, so did I.
 
