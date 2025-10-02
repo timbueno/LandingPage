@@ -1,7 +1,7 @@
 ---
 title: My September 2025 Media Diet
 date: 2025-10-01
-draft: true
+draft: false
 modified: 2025-10-01T12:00:00-04:00
 ---
 
