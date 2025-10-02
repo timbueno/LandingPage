@@ -13,38 +13,6 @@ This month I upgraded a few old GameCube controllers with the [8BitDo Bluetooth 
 
 Here’s what else I got up to last month:
 
-🍿 Thunderbolts*. This movie should have been terrible, but it was kind of OK? A bunch of B-tier superheroes and villains team up to save the day as expected, but it somehow recaptures a little of what worked in the early Marvel movies.
-
-🕹️ Hollow Knight. I picked this up years ago on Switch and bounced off it hard—played an hour, got wrecked, never touched it again. With Silksong finally dropping this month, I gave it another shot and I’m glad I did. Beautiful visuals, a gripping (if confusing) story, and a fair but challenging gameplay loop. Playing it on my custom OLED Switch Lite made the deep blacks pop even more. 👍
-
-🍿 Together. I liked this body horror movie well enough, but the real intrigue is the IP theft drama swirling around it.
-
-🍿 Downton Abbey: The Grand Finale. Returning to the world of Downton feels like hanging out with old friends. I think this might be the last go-around, and it’s bittersweet. 👍
-
-📺 Crowd Control. A spinoff from a great Game Changer episode, but it doesn’t quite land. I’ll give it a few more episodes to find its footing, but something’s missing.
-
-📺 The Great British Bake-off. Another year, another bake-off. Who can I call to convince them the winners deserve prize money? If Love Island can cough up a quarter million, Bake-off can spring for more than a cake plate.
-
-📺 Shiki. This 20-year-old anime, heavily inspired by ’Salem’s Lot, might be the best adaptation of that book I’ve seen. I love King’s novel, and every other attempt pales compared to Shiki. 👍
-
-🕹️ Gato Roboto. After Hollow Knight I needed another Metroidvania, and this scratched the itch. Much easier (thank god), with a unique retro style. I loved it. Played on my Ayn Odin 2 Portal through GameHub, which worked perfectly. Android-based Steam Deck that I already had lying around? Pretty cool. 👍
-
-📺 Marvel Zombies. Started off strong, then fell off a cliff. Skip it.
-
-🍿 Fantastic Four: First Steps. I wanted to love this. The acting was solid, the talent was there, the set design nailed it… but it just didn’t connect. Kind of a bummer.
-
-🕹️ Self Simulated. There’s a little wave of new Game Boy / Game Boy Color games, and I’m here for it. This might be one of the best GBC games I’ve played—fast, stylish, and perfect for five-minute bursts. 👍
-
-📺 Love Island Games: Season 2. Peak guilty pleasure. The challenges drag on way too long, but I’m still watching.
-
-🕹️ Big2Small. Another modern GBC game I’ve been dabbling in. One-screen puzzles where you guide animals to their food, with difficulty ramping up quick. I could see myself sticking with this one for a while. 👍
-
-🕹️ Hades II. Only a few hours in so far, which feels like a shame because the first game is one of my all-time favorites. Everything here points to another banger, I just need to commit. 👍
-
-
------
-
-
 🍿 **[Thunderbolts\*](https://en.wikipedia.org/wiki/Thunderbolts%2A).** This movie should have been terrible, but it was kind of OK? A bunch of B-tier superheroes and villains team up to save the day as expected, but it somehow recaptures a little of what worked in the early Marvel movies.
 
 🕹️ **[Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight).** I picked this up years ago on Switch and bounced off it hard—played an hour, got wrecked, never touched it again. With Silksong finally dropping this month, I gave it another shot and I’m glad I did. Beautiful visuals, a gripping (if confusing) story, and a fair but challenging gameplay loop. Playing it on my custom OLED Switch Lite made the deep blacks pop even more. 👍
