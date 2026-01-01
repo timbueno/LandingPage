@@ -5,7 +5,7 @@ draft: false
 modified: 2026-01-01T12:00:00-04:00
 ---
 
-{{< figure src="/images/blog/2026-01-01-my-december-2025-media-diet/ollie.jpg" title="Oliver The Dog" width="600" >}}
+{{< figure src="/static/images/blog/2026-01-01-my-december-2025-media-diet/ollie.jpeg" title="Oliver The Dog" width="600" >}}
 
 December, as always, flew by, and this year was no exception. Work hit full crunch mode with end-of-year deliverables, and my whirlwind tour of family and friends in Ohio mostly went according to plan, aside from a few airport-related hiccups (boo Spirit, boo Delta). I played a wide variety of video games, spent way too much money during the Steam Winter Sale, and only just realized that I played almost everything I bought through [GameHub Lite](https://github.com/Producdevity/gamehub-lite) on my [Ayn Odin 2 Portal](https://www.ayntec.com/products/odin2-portal). Android gaming handhelds are the future, folks.
 
