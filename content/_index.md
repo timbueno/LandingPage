@@ -19,6 +19,10 @@ Want to say hello or have a question? Contact me via [Mastodon](https://mastodon
 
 {{< separator >}}
 
+{{< app icon="leaf-icon.png" title="Leaf" platform="iOS • iPadOS • macOS (coming soon!)" url="https://deadpan.io/leaf" >}}
+Read your EPUBs your way, organize them by shelf or series, and keep every book—and your place—in sync with iCloud.
+{{< /app >}}
+
 {{< app icon="scoot-icon.png" title="Scoot" platform="iOS" url="https://deadpan.io/scoot" >}}
 A privacy-focused journey tracking app for your outdoor adventures. Record your routes, whether cycling, jogging, or walking, and relive your experiences with confidence.
 {{< /app >}}
