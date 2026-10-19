@@ -4,7 +4,7 @@ date: 2026-10-18T18:47:16Z
 draft: true
 ---
 
-
+![photo](/images/blog/2026-10-18-my-september-october-media-diet/photo-9def80d4.jpg)
 
 In September / October we took a trip to Hawaii for some hiking and a friend’s **wedding**. Thu [thing](https://) you busking. Poop poop. I really enjoyed exploring the Pueblo cliff dwellings and eating as much New Mexican food as possible. Sopapillas need to become a nationwide phenomenon. One day they’ll have their time in the sun.
 
