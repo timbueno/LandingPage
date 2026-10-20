@@ -1,3 +1,0 @@
-{{- range $index, $element := .Site.Menus.main -}}
-<a href="{{ .URL }}">{{ .Name }}</a>{{- if ne $index (sub (len $.Site.Menus.main) 1) -}}<span class="nav-bullet">•</span>{{- end -}}
-{{- end -}}
