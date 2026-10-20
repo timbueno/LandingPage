@@ -5,7 +5,7 @@ draft: false
 modified: 2026-09-01T13:47:28-04:00
 ---
 
-In August we took a long trip to New Mexico for some hiking and a friend’s wedding. I really enjoyed exploring the Pueblo cliff dwellings and eating as much New Mexican food as possible. Sopapillas need to become a nationwide phenomenon. One day they’ll have their time in the sun.
+In August we took a short trip to New Mexico for some hiking and a friend’s wedding. I really enjoyed exploring the Pueblo cliff dwellings and eating as much New Mexican food as possible. Sopapillas need to become a nationwide phenomenon. One day they’ll have their time in the sun.
 
 August also saw the launch of my new app, Leaf! [Leaf](https://deadpan.io/leaf/) is an EPUB reader for people who already have a collection of books and want to read them across different kinds of devices. It syncs your reading position with KOReader on compatible Android and e-ink devices like Boox and Kobo readers. I’ve had a blast building it over the past few months and I’m really proud of where it ended up.
 
