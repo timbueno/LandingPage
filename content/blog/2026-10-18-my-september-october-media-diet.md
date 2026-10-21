@@ -40,4 +40,4 @@ draft: true
 
 🍿 Absolum.
 
-Carls Doomsday Scenario.
+📖 Carls Doomsday Scenario.
