@@ -36,4 +36,4 @@ draft: true
 
 🍿 I Want Your Sex. 
 
-Super Mario Bros
+Super Mario Bros Rem
