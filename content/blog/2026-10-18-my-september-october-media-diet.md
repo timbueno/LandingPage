@@ -42,5 +42,5 @@ draft: true
 
 📖 Carl's Doomsday Scenario.
 
-Kururin Squash!
+Kururin Squash! No
 
