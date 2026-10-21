@@ -44,7 +44,4 @@ draft: true
 
 🕹️ Kururin Squash!.
 
-Let's see if this works. This does seem a bit smoother than it was before.
-
-Ok try again 
 
