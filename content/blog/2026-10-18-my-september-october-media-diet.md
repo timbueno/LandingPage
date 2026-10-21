@@ -38,12 +38,3 @@ draft: true
 
 🕹️ Super Mario Bros Remastered.
 
-Hyhjkonfftdxhiinbhunbfxddunjnvcdrinbxzeeinbcddrhhjjj
-B
-
-
-Hyhhnfdr
-
-Tyungxerjnvdr
-
-Huh thumb. Hindus
