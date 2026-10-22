@@ -50,6 +50,6 @@ draft: true
 
 🍿 Buddy.
 
-Hope.
+🍿 Hope.
 
 
