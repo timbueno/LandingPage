@@ -48,6 +48,8 @@ draft: true
 
 📺 The Terminal List.
 
-Buddy.
+🍿 Buddy.
+
+
 
 
