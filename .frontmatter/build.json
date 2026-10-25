@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "hugo": {
+    "version": "0.168.0",
+    "edition": "extended"
+  },
+  "baseURL": "https://timbueno.com/",
+  "siteDirectory": ".",
+  "timeZone": "America/New_York",
+  "build": {
+    "minify": true,
+    "garbageCollect": true
+  }
+}
