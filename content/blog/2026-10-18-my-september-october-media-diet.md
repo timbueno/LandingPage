@@ -56,4 +56,4 @@ draft: true
 
 Avatar: Seven Havens.
 
-Jojos Bizarre Adventure Steelball Run. 
+Jojos Bizarre Adventure: Steelball Run. 
