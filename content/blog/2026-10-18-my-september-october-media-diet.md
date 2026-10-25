@@ -54,6 +54,6 @@ draft: true
 
 🍿 The Traitors.
 
-Avatar: Seven Havens.
+📺 Avatar: Seven Havens.
 
 📺 Jojos Bizarre Adventure: Steelball Run. 
