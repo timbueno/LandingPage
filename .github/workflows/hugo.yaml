@@ -21,8 +21,8 @@ jobs:
       contents: read
       pages: write
       id-token: write
-    # Initial pilot; repin to the reviewed main commit before merging this migration.
-    uses: Deadpan-LLC/frontmatter-actions/.github/workflows/hugo-pages.yml@edbf83f5e951bb2af405078427f74147b0f74643
+    # Reviewed Frontmatter Actions implementation (frontmatter-actions PR #1).
+    uses: Deadpan-LLC/frontmatter-actions/.github/workflows/hugo-pages.yml@32628f567ce2d43d8f3809e3345211415cb868f0
     with:
       publication-branch: main
       deploy: ${{ github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.deploy) }}
