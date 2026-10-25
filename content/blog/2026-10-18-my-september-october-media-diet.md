@@ -54,4 +54,6 @@ draft: true
 
 🍿 The Traitors.
 
-Avatar: Seven Haven
+Avatar: Seven Havens.
+
+
