@@ -22,7 +22,7 @@ jobs:
       pages: write
       id-token: write
     # Initial pilot; repin to the reviewed main commit before merging this migration.
-    uses: Deadpan-LLC/frontmatter-actions/.github/workflows/hugo-pages.yml@a7b89c3457545ed5a2356d206664a0b9669e2b00
+    uses: Deadpan-LLC/frontmatter-actions/.github/workflows/hugo-pages.yml@edbf83f5e951bb2af405078427f74147b0f74643
     with:
       publication-branch: main
       deploy: ${{ github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.deploy) }}
