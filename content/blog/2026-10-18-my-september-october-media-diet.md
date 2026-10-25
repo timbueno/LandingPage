@@ -53,3 +53,5 @@ draft: true
 🍿 Hope.
 
 🍿 The Traitors.
+
+Avatar: 
