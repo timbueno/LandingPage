@@ -58,4 +58,4 @@ draft: true
 
 📺 Jojos Bizarre Adventure: Steelball Run. 
 
-Love Island Australia.
+Love Island: Australia.
