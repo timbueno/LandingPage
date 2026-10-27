@@ -57,3 +57,5 @@ draft: true
 📺 Avatar: Seven Havens.
 
 📺 Jojos Bizarre Adventure: Steelball Run. 
+
+Love Island Australia.
