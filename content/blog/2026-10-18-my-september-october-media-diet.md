@@ -36,9 +36,9 @@ draft: true
 
 🍿 I Want Your Sex. 
 
-🕹️ Super Mario Bros Remastered.
+🕹️ Super Mario Bros Remastered. Lovely remake with slightly upgraded visuals and it plays beautifully on my Retroid Pocket Nova. 
 
-🍿 Absolum.
+🍿 Absolum. I haven't played a lot of this one yet but I'll definitely be returning, hopefully with a partner for coop. This is my kind of beat-em up so it pains me that I haven't had time to jumped in yet.
 
 📖 Carl's Doomsday Scenario.
 
