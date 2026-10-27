@@ -30,7 +30,7 @@ draft: true
 
 📺 The Paper.
 
-🍿 Resident Evil. Definitely the weak
+🍿 Resident Evil. Definitely the weakest of 
 
 🍿 Tony. Loved this. But I think I'm really into the director even more. There's heart and also tragedy weaved deftly throughout. It's not what I expected. 
 
