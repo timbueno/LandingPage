@@ -32,7 +32,7 @@ draft: true
 
 🍿 Resident Evil.
 
-🍿 Tony. Loved this. But I think I'm really into the director even more. There's heart and 
+🍿 Tony. Loved this. But I think I'm really into the director even more. There's heart and also tragedy 
 
 🍿 I Want Your Sex. 
 
