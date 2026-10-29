@@ -61,3 +61,5 @@ draft: true
 📺 Love Island: Australia.
 
 🍿 The Dog Stars.
+
+📖 As You Wake, Break The Shell by Becky Chambers.
