@@ -1,0 +1,67 @@
+---
+title: "My September \/ October Media Diet"
+date: 2026-10-18T18:47:16Z
+draft: true
+---
+
+![photo](/images/blog/2026-10-18-my-september-october-media-diet/photo-9def80d4.jpg)
+
+📺 Ted Lasso. The infectious Ted Lasso returns and I dare say it might be my favorite season since the first? The same stories are here but sometimes you just want that kind of comfort food.
+
+🍿 Coyote vs ACME.
+
+🍿 Disclosure Day.
+
+🍿 Toy Story 5.
+
+🍿 The Last House.
+
+📺 Jeopardy Masters and Jeopardy.
+
+📺 Titanium Court. I have almost no idea what is going on narratively in this game but the core gameplay loop is fun and addicting. I hope the narrative starts to make a bit more sense. The art style tho is chefs kiss. 
+
+📺 Neagly.
+
+🍿 Pigeon Kings.
+
+🍿Some Kind Of Heaven. 
+
+🍿 The Last House On Oak Street.
+
+📺 The Paper.
+
+🍿 Resident Evil. Definitely the weakest of 
+
+🍿 Tony. Loved this. But I think I'm really into the director even more. There's heart and also tragedy weaved deftly throughout. It's not what I expected. 
+
+🍿 I Want Your Sex. 
+
+🕹️ Super Mario Bros Remastered. Lovely remake with slightly upgraded visuals and it plays beautifully on my Retroid Pocket Nova. Major nostalgia blast to playing this game for hours at my grandparents house in the '90s.
+
+🍿 Absolum. I haven't played a lot of this one yet but I'll definitely be returning, hopefully with a partner for coop. This is my kind of beat-em up so it pains me that I haven't had time to jumped in yet.
+
+📖 Carl's Doomsday Scenario.
+
+🕹️ Kururin Squash!.
+
+📺 Mobland.
+
+📺 The Terminal List.
+
+🍿 Buddy.
+
+🍿 Hope.
+
+🍿 The Traitors.
+
+📺 Avatar: Seven Havens.
+
+📺 Jojos Bizarre Adventure: Steelball Run. 
+
+📺 Love Island: Australia.
+
+🍿 The Dog Stars.
+
+📖 As You Wake, Break The Shell by Becky Chambers.
+
+🍿 You Can See Everything.
