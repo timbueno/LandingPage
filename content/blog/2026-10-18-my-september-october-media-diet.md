@@ -6,13 +6,13 @@ draft: true
 
 ![photo](/images/blog/2026-10-18-my-september-october-media-diet/photo-ddc96376.jpg)
 
-The last two months and really the whole year has kind of slipped by me. I've been working a ton both professionally and personally. We were in Maui at the end of last month and that's why this blog entry didn't go out so this is a two for one special. 
+The past two months, and honestly this entire year, have kind of slipped by me. I’ve been working a ton, both professionally and on my own projects, and I’m not entirely sure where all the time has gone. We spent the end of last month in Maui, which is my excuse for missing a blog post. So here we are, another two-for-one special.
 
-If anyone reads this blog I'd love you to check out my new app Leaf and maybe my open source app SF Cymbals. I think they're really great. Being able to pump out features and apps at the pace I've been going has been a fun ride tho can be a bit overwhelming at times. 
+If anyone actually reads this blog, I’d love for you to check out my new app, Leaf, and my open-source app, SF Cymbals. I’m really proud of both of them. Being able to build apps and ship features at the pace I have lately has been incredibly rewarding, if a little overwhelming. It’s a strange feeling to have more ideas than time to work on them.
 
-I really need to lock in and focus on my first app Bound but I'm having so much fun on the new stuff that it's hard to break away.
+I really need to buckle down and give my first app, Bound, some much-needed attention. Unfortunately, I’m having so much fun building new things that it’s hard to pull myself away. A good problem to have, I suppose.
 
-Anyway, here's what else I was up to the last two months.
+Anyway, here’s what else I was up to over the past two months:
 
 📺 Ted Lasso. The relentlessly optimistic Ted Lasso is back, and dare I say this might be my favorite season since the first? It’s largely the same stories and familiar beats, but sometimes you just want a little comfort food. This show knows exactly what it is, and I’m perfectly happy with that.
 
