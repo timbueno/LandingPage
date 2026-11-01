@@ -30,7 +30,7 @@ draft: true
 
 📺 The Paper. They made Ned insufferable this season. The first season was such a pleasant surprise but I could barely stay interested in this one. I feel like they tried to go for Michael Scott awkward and Ned just make my skin crawl when doing that.
 
-🍿 Resident Evil. Definitely the weakest of 
+🍿 Resident Evil. Definitely the weakest of the
 
 🍿 Tony. Loved this. But I think I'm really into the director even more. There's heart and also tragedy weaved deftly throughout. It's not what I expected. 
 
