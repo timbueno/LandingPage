@@ -26,7 +26,7 @@ draft: true
 
 🍿 Some Kind Of Heaven. The Villages of Florida, man this was a tough watch. It really seems like so many Americans are just trying to be seen and it bums me out. 
 
-🍿 The Last House On Oak Street. Relentless. This is no Jurassic Park but I did enjoy the constant 
+🍿 The Last House On Oak Street. Relentless. This is no Jurassic Park but I did enjoy the constant dinisa
 
 📺 The Paper.
 
