@@ -28,7 +28,7 @@ draft: true
 
 🍿 The Last House On Oak Street. Relentless. This is no Jurassic Park but I did enjoy the constant dinosaur action. I fully expected one or two dinosaurs models to be included and to be left wanting more, but I think we got our moneys worth. 
 
-📺 The Paper. They made Ned insufferable this season. The first season was such a pleasant surprise but I could barely stay interested in this one. I feel like they tried to go for Michael Scott awkward and Ned just make my skin crawl when
+📺 The Paper. They made Ned insufferable this season. The first season was such a pleasant surprise but I could barely stay interested in this one. I feel like they tried to go for Michael Scott awkward and Ned just make my skin crawl when doing that.
 
 🍿 Resident Evil. Definitely the weakest of 
 
