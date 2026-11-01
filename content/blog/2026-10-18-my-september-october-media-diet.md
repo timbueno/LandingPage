@@ -36,7 +36,7 @@ draft: true
 
 🍿 I Want Your Sex. I went in expecting a fun, lighthearted romp and got something considerably more serious. It has its moments, but nothing really stuck with me. Sometimes I just want a movie to be a good time, ya know?
 
-🕹️ Super Mario Bros. Remastered. A lovely remake of the original with just enough visual polish to make it feel fresh without losing its charm. Plays beautifully on my Retroid Pocket Nova. Major nostalgia trip back to spending hours playing this at my grandparents’ house in the ’90s.
+🕹️ Super Mario Bros. Remastered. A lovely remake of the original with just enough visual polish to make it feel fresh without losing its charm. Major nostalgia trip back to spending hours playing this at my grandparents’ house in the ’90s.
 
 🕹️ Absolum. I haven’t spent nearly enough time with this yet, which is a shame because it’s exactly my kind of beat ‘em up. I’m hoping to dive back in soon, preferably with a co-op partner. Too many games, not enough time.
 
