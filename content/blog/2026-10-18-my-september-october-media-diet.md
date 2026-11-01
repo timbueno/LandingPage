@@ -20,7 +20,7 @@ draft: true
 
 📺 Titanium Court. I have almost no idea what is going on narratively in this game but the core gameplay loop is fun and addicting. I hope the narrative starts to make a bit more sense. The art style tho is chefs kiss. 
 
-📺 Neagly. The Reacher show is hokey and this spinoff is even more so. That said, it's enjoyable and I'd watch another if only to talk to my a
+📺 Neagly. The Reacher show is hokey and this spinoff is even more so. That said, it's enjoyable and I'd watch another if only to talk to my Da
 
 🍿 Pigeon Kings.
 
