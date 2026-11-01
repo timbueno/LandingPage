@@ -10,6 +10,10 @@ The last two months and really the whole year has kind of slipped by me. I've be
 
 If anyone reads this blog I'd love you to check out my new app Leaf and maybe my open source app SF Cymbals. I think they're really great. Being able to pump out features and apps at the pace I've been going has been a fun ride tho can be a bit overwhelming at times. 
 
+I really need to lock in and focus on my first app Bound but I'm having so much fun on the new stuff that it's hard to break away.
+
+Anyway, here's what else I was up to the last two months.
+
 📺 Ted Lasso. The relentlessly optimistic Ted Lasso is back, and dare I say this might be my favorite season since the first? It’s largely the same stories and familiar beats, but sometimes you just want a little comfort food. This show knows exactly what it is, and I’m perfectly happy with that.
 
 🍿 Coyote vs. Acme. What a delightful surprise. I cannot believe Warner Bros. let this sit on a shelf for years. Whoever made that decision should be fired. More movies like this, please.
