@@ -1,6 +1,6 @@
 ---
 title: "My September \/ October Media Diet"
-date: 2026-10-18T18:47:16Z
+date: 2026-11-01T08:00:00Z
 draft: true
 ---
 
