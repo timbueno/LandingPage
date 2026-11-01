@@ -82,7 +82,7 @@ Anyway, here’s what else I was up to over the past two months:
 
 🍿 **[Toy Story 5](https://en.wikipedia.org/wiki/Toy_Story_5).** I had a great time watching this, but I suspect that six months from now I’ll struggle to remember anything beyond “technology isn’t everything.” Then again, I’m a 37-year-old man reviewing the fifth installment of a children’s movie franchise. Maybe I’m not the target audience anymore.
 
-🍿 **[The Last House](https://en.wikipedia.org/wiki/Horror_film).** Hokey action horror that’s a little too ambitious for its own good. I appreciate the effort, but this was a miss.
+🍿 **[The Last House](https://en.wikipedia.org/wiki/The_Last_House).** Hokey action horror that’s a little too ambitious for its own good. I appreciate the effort, but this was a miss.
 
 📺 **[Jeopardy! Masters](https://en.wikipedia.org/wiki/Jeopardy!_Masters) and [Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy!).** Jeopardy’s back, baby, and Ken Jennings is better than ever. With all due respect to Alex Trebek, I think Ken might be the best host the show has ever had. There, I said it.
 
