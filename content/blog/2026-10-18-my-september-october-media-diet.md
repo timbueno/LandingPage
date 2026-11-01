@@ -12,9 +12,9 @@ draft: true
 
 🍿 Disclosure Day. What are you doing Spielberg? This movie is so forgettable. It's got that Spielberg eye, which I like for sure, but damn I thought this would have been better than it was.
 
-🍿 Toy Story 5. I really enjoyed this movie in the moment but long term I think I'm going to struggle to remember anything about it beyond "technology isn't everything". I am 37 years old though 
+🍿 Toy Story 5. I really enjoyed this movie in the moment but long term I think I'm going to struggle to remember anything about it beyond "technology isn't everything". I am 37 years old though, so maybe I'm not supposed to.
 
-🍿 The Last House.
+🍿 The Last House. Hokey action horror that 
 
 📺 Jeopardy Masters and Jeopardy.
 
