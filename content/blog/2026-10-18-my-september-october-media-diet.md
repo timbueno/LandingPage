@@ -46,8 +46,6 @@ draft: true
 
 📺 Mobland.
 
-📺 The Terminal List.
-
 🍿 Buddy.
 
 🍿 Hope.
