@@ -6,6 +6,10 @@ draft: true
 
 
 
+![photo](/images/blog/2026-10-18-my-september-october-media-diet/photo-ddc96376.jpg)
+
+
+
 The last two months and really the whole year has kind of slipped by me. I've been working a ton both professionally and personally. We were in Maui at the end of last month and that's why this blog entry didn't go out so this is a two for one special. 
 
 If anyone reads this blog I'd love you to check out my new app Leaf and maybe my open source app SF Cymbals. I think they're really great. Being able to pump out features and apps at the pace I've been going has been a fun ride tho can be a bit overwhelming at times. 
