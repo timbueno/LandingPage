@@ -52,7 +52,7 @@ draft: true
 
 🍿 Hope.
 
-🍿 The Traitors.
+🍿 The Traitors: New Blood.
 
 📺 Avatar: Seven Havens.
 
