@@ -46,7 +46,7 @@ draft: true
 
 📺 MobLand. Kind of loving this season. Everyone is completely unhinged and every episode somehow manages to spiral further out of control. An unhinged former James Bond and his equally unhinged wife? Sign me up.
 
-🍿 Buddy. Better than I expected! I wish they’d leaned harder into the Saturday morning cartoon framing rather than going down the whole “sucked into a demonic television show” route. There’s a more interesting version of this movie somewhere, but I’ll take what I can get.
+🍿 Buddy. Better than I expected! I wish they’d leaned harder into the Saturday morning TV framing rather than going down the whole “sucked into a demonic television show” route. There’s a more interesting version of this movie somewhere, but I’ll take what I can get.
 
 🍿 Hope. Man, this was a ride until it suddenly wasn’t. I was completely on board for the first two-thirds, but things started falling apart when I realized these supposedly hyperintelligent aliens were devoting all their attention to some of the least consequential people on the planet. Throw in an ending that feels more interested in setting up a sequel than finishing the story, and I left pretty disappointed.
 
