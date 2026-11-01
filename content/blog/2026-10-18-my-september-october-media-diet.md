@@ -6,6 +6,8 @@ draft: true
 
 ![photo](/images/blog/2026-10-18-my-september-october-media-diet/photo-9def80d4.jpg)
 
+
+
 📺 Ted Lasso. The relentlessly optimistic Ted Lasso is back, and dare I say this might be my favorite season since the first? It’s largely the same stories and familiar beats, but sometimes you just want a little comfort food. This show knows exactly what it is, and I’m perfectly happy with that.
 
 🍿 Coyote vs. Acme. What a delightful surprise. I cannot believe Warner Bros. let this sit on a shelf for years. Whoever made that decision should be fired. More movies like this, please.
