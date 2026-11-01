@@ -4,11 +4,7 @@ date: 2026-10-18T18:47:16Z
 draft: true
 ---
 
-
-
 ![photo](/images/blog/2026-10-18-my-september-october-media-diet/photo-ddc96376.jpg)
-
-
 
 The last two months and really the whole year has kind of slipped by me. I've been working a ton both professionally and personally. We were in Maui at the end of last month and that's why this blog entry didn't go out so this is a two for one special. 
 
