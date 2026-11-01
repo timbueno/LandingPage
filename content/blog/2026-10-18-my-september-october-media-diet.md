@@ -14,7 +14,7 @@ draft: true
 
 🍿 Toy Story 5. I really enjoyed this movie in the moment but long term I think I'm going to struggle to remember anything about it beyond "technology isn't everything". I am 37 years old though, so maybe I'm not supposed to.
 
-🍿 The Last House. Hokey action horror that is a bit to ambitious for its own good. 
+🍿 The Last House. Hokey action horror that is a bit to ambitious for its own good. This is a miss.
 
 📺 Jeopardy Masters and Jeopardy.
 
