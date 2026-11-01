@@ -24,9 +24,9 @@ draft: true
 
 🍿 Pigeon Kings. I wanted more Fast and Furious than sad men looking for community but looking back I don't know what I was thinking.
 
-🍿 Some Kind Of Heaven. The Villages of Florida, man this was a tough watch. It really seems like so many Americans are just trying to be seen 
+🍿 Some Kind Of Heaven. The Villages of Florida, man this was a tough watch. It really seems like so many Americans are just trying to be seen and it bums me out. 
 
-🍿 The Last House On Oak Street.
+🍿 The Last House On Oak Street. Relentless. This is no Jurassic Park 
 
 📺 The Paper.
 
