@@ -8,9 +8,9 @@ draft: true
 
 📺 Ted Lasso. The infectious Ted Lasso returns and I dare say it might be my favorite season since the first? The same stories are here but sometimes you just want that kind of comfort food.
 
-🍿 Coyote vs ACME.
+🍿 Coyote vs ACME. 
 
-🍿 Disclosure Day.
+🍿 Disclosure Day. What are you doing Spielberg? This mivie
 
 🍿 Toy Story 5.
 
