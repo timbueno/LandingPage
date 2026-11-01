@@ -12,7 +12,7 @@ draft: true
 
 🍿 Disclosure Day. What are you doing Spielberg? This movie is so forgettable. It's got that Spielberg eye, which I like for sure, but damn I thought this would have been better than it was.
 
-🍿 Toy Story 5. 
+🍿 Toy Story 5. I really enjoyed this movie in the moment 
 
 🍿 The Last House.
 
