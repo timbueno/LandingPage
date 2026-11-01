@@ -6,60 +6,60 @@ draft: true
 
 ![photo](/images/blog/2026-10-18-my-september-october-media-diet/photo-9def80d4.jpg)
 
-📺 Ted Lasso. The infectious Ted Lasso returns and I dare say it might be my favorite season since the first? The same stories are here but sometimes you just want that kind of comfort food.
+📺 Ted Lasso. The relentlessly optimistic Ted Lasso is back, and dare I say this might be my favorite season since the first? It’s largely the same stories and familiar beats, but sometimes you just want a little comfort food. This show knows exactly what it is, and I’m perfectly happy with that.
 
-🍿 Coyote vs ACME. What a fun pleasant surprise. I cannot believe this sat on the shelf at Warner Bros for years. Whoever made that happen should be fired. 
+🍿 Coyote vs. Acme. What a delightful surprise. I cannot believe Warner Bros. let this sit on a shelf for years. Whoever made that decision should be fired. More movies like this, please.
 
-🍿 Disclosure Day. What are you doing Spielberg? This movie is so forgettable. It's got that Spielberg eye, which I like for sure, but damn I thought this would have been better than it was.
+🍿 Disclosure Day. What are you doing, Spielberg? This was so forgettable. It’s still got that unmistakable Spielberg eye, and there are moments of genuine visual magic, but man, I expected so much more from this.
 
-🍿 Toy Story 5. I really enjoyed this movie in the moment but long term I think I'm going to struggle to remember anything about it beyond "technology isn't everything". I am 37 years old though, so maybe I'm not supposed to.
+🍿 Toy Story 5. I had a great time watching this, but I suspect that six months from now I’ll struggle to remember anything beyond “technology isn’t everything.” Then again, I’m a 37-year-old man reviewing the fifth installment of a children’s movie franchise. Maybe I’m not the target audience anymore.
 
-🍿 The Last House. Hokey action horror that is a bit to ambitious for its own good. This is a miss.
+🍿 The Last House. Hokey action horror that’s a little too ambitious for its own good. I appreciate the effort, but this was a miss.
 
-📺 Jeopardy Masters and Jeopardy. Jeopardy's back and Ken is better than ever. With all due respect to Alex Trebec, Ken is the best host the show has ever had. 
+📺 Jeopardy Masters and Jeopardy. Jeopardy’s back, baby, and Ken Jennings is better than ever. With all due respect to Alex Trebek, I think Ken might be the best host the show has ever had. There, I said it.
 
-📺 Titanium Court. I have almost no idea what is going on narratively in this game but the core gameplay loop is fun and addicting. I hope the narrative starts to make a bit more sense. The art style tho is chefs kiss. 
+🕹️ Titanium Court. I have almost no idea what’s happening narratively, but the core gameplay loop is fun and addictive enough that I don’t really care. I’m hoping the story eventually starts making some sense. The art style, though? Chef’s kiss.
 
-📺 Neagly. The Reacher show is hokey and this spinoff is even more so. That said, it's enjoyable and I'd watch another if only to talk to my Dad about it.
+📺 Neagley. Reacher is already pretty hokey, and somehow this spin-off manages to crank it up another notch. Is it good television? Probably not. Did I enjoy it? Absolutely. I’d watch another season if only to have something to talk to my dad about.
 
-🍿 Pigeon Kings. I wanted more Fast and Furious than sad men looking for community but looking back I don't know what I was thinking.
+🍿 Pigeon Kings. I went in expecting Fast & Furious with pigeons and instead got a documentary about lonely men searching for community. Looking back, I’m not entirely sure what I was expecting.
 
-🍿 Some Kind Of Heaven. The Villages of Florida, man this was a tough watch. It really seems like so many Americans are just trying to be seen and it bums me out. 
+🍿 Some Kind of Heaven. A documentary about The Villages in Florida that left me feeling pretty depressed. So many people just want to be seen, loved, and part of something. Watching them struggle to find that in a place explicitly designed to manufacture happiness was a tough watch.
 
-🍿 The Last House On Oak Street. Relentless. This is no Jurassic Park but I did enjoy the constant dinosaur action. I fully expected one or two dinosaurs models to be included and to be left wanting more, but I think we got our moneys worth. 
+🍿 The Last House on Oak Street. Relentless dinosaur action. It’s no Jurassic Park, but I had a great time. I went in expecting one or two dinosaur models stretched across the entire runtime, but they really delivered on the prehistoric carnage. We got our money’s worth.
 
-📺 The Paper. They made Ned insufferable this season. The first season was such a pleasant surprise but I could barely stay interested in this one. I feel like they tried to go for Michael Scott awkward and Ned just make my skin crawl when doing that.
+📺 The Paper. What happened to Ned? The first season was such a pleasant surprise, but they’ve made him almost unbearable this time around. It feels like they’re trying to recreate Michael Scott’s particular brand of awkwardness, except Ned just makes my skin crawl. I struggled to stay interested.
 
-🍿 Resident Evil. Definitely the weakest of the three Zach Cregger movies but still very enjoyable. Austin Abrams is so good and I think the first half of this movie is VERY good. Once we got to Raccoon City though, the seams started to show.
+🍿 Resident Evil. Probably the weakest of Zach Cregger’s three movies, but still a pretty good time. Austin Abrams is fantastic, and I thought the first half was genuinely excellent. Once we got to Raccoon City, though, the seams started to show. Still, I’ll watch whatever Cregger makes next.
 
-🍿 Tony. Loved this. But I think I'm really into the director even more. There's heart and also tragedy weaved deftly throughout. It's not what I expected. 
+🍿 Tony. Loved this, but I think I might be even more impressed with the director. There’s so much heart here, with tragedy woven throughout in ways I didn’t expect. Not at all the movie I thought I was getting, and I’m glad for it.
 
-🍿 I Want Your Sex. This was more serious than I expected and I really just wanted a fun light romp for a few hours. It had its moments but nothing really stands out.
+🍿 I Want Your Sex. I went in expecting a fun, lighthearted romp and got something considerably more serious. It has its moments, but nothing really stuck with me. Sometimes I just want a movie to be a good time, ya know?
 
-🕹️ Super Mario Bros Remastered. Lovely remake with slightly upgraded visuals and it plays beautifully on my Retroid Pocket Nova. Major nostalgia blast to playing this game for hours at my grandparents house in the '90s.
+🕹️ Super Mario Bros. Remastered. A lovely remake of the original with just enough visual polish to make it feel fresh without losing its charm. Plays beautifully on my Retroid Pocket Nova. Major nostalgia trip back to spending hours playing this at my grandparents’ house in the ’90s.
 
-🍿 Absolum. I haven't played a lot of this one yet but I'll definitely be returning, hopefully with a partner for coop. This is my kind of beat-em up so it pains me that I haven't had time to jumped in yet.
+🕹️ Absolum. I haven’t spent nearly enough time with this yet, which is a shame because it’s exactly my kind of beat ‘em up. I’m hoping to dive back in soon, preferably with a co-op partner. Too many games, not enough time.
 
-📖 Carl's Doomsday Scenario by Matt Dinniman. Fun beach read. These books are just ok and I'm surprised by the mega following they have. I've struggled to really settle in and read like I've done in years past. I realize how ridiculous  that sounds since I've been working so hard on my new reader app. Maybe the new year I'll be able to unclench enough to relax more. Maybe that's why they're so popular, they're just easy.
+📖 Carl’s Doomsday Scenario by Matt Dinniman. Fun beach read. I still don’t quite understand the enormous following these books have, though. They’re fine? I’ve also been struggling to settle into reading the way I used to, which is particularly ridiculous considering how much time I’ve spent building my own reading app. Maybe next year I’ll finally unclench enough to relax with a book again. Or maybe that’s exactly why these are so popular. They’re just easy.
 
-🕹️ Kururin Squash!. I loved the first two on GBA and I'm finally getting around to playing the GameCube installment on my Retroid Pocket Nova. It's the perfect platform for this pick up and play game.
+🕹️ Kururin Squash!. I loved the first two games on GBA and finally got around to the GameCube installment. It’s a perfect fit for my Retroid Pocket Nova. Simple, charming, and exactly the kind of pick-up-and-play game I keep coming back to.
 
-📺 Mobland. Kind of loving this season. Everyone's unhinged and everything is constantly going off the rails. I love an unhinged former James Bond and his equally unhinged wife.
+📺 MobLand. Kind of loving this season. Everyone is completely unhinged and every episode somehow manages to spiral further out of control. An unhinged former James Bond and his equally unhinged wife? Sign me up.
 
-🍿 Buddy. Better than I expected. I think they should have leaned more into the Saturday morning framing and not gone down the supernatural "I got sucked into a demonic show." route but I'll take what I can get.
+🍿 Buddy. Better than I expected! I wish they’d leaned harder into the Saturday morning cartoon framing rather than going down the whole “sucked into a demonic television show” route. There’s a more interesting version of this movie somewhere, but I’ll take what I can get.
 
-🍿 Hope. Man this was a ride that fizzled out about 2/3rds of the way through. I loved it up until the point where I realized that the aliens who presumably are incredibly smart are focusing all their attention on the most insignificant people on the planet. That and the sequel set up ending really soured me on this film.
+🍿 Hope. Man, this was a ride until it suddenly wasn’t. I was completely on board for the first two-thirds, but things started falling apart when I realized these supposedly hyperintelligent aliens were devoting all their attention to some of the least consequential people on the planet. Throw in an ending that feels more interested in setting up a sequel than finishing the story, and I left pretty disappointed.
 
-🍿 The Traitors: New Blood. Fruit Gate. That is all. 
+🍿 The Traitors: New Blood. Fruit Gate. That is all.
 
-📺 Avatar: Seven Havens. We love us some Avatar in this house and I think they did a very good job with this third installment. I'm very interested in the themes and mystery they set up and look forward to future seasons.
+📺 Avatar: Seven Havens. We love us some Avatar in this house, and I think they really nailed this third installment. The new themes and central mystery have me genuinely intrigued. I’m excited to see where they take this world in future seasons.
 
-📺 Jojos Bizarre Adventure: Steelball Run. This show is insane just like every other season. I can't even really keep track of what the hell is happening moment to moment but I like what I see.
+📺 JoJo’s Bizarre Adventure: Steel Ball Run. This show is completely insane, just like every other season. I can barely keep track of what’s happening from one moment to the next, but somehow I’m having a great time. Never change, JoJo.
 
-📺 Love Island: Australia. It's back. Sophie Monk is still a treasure. Not a lot has happened yet but I'm sure we'll watch it all. 
+📺 Love Island: Australia. It’s back, and Sophie Monk remains a national treasure. Not much has happened yet, but who am I kidding? We’re going to watch every episode.
 
-🍿 The Dog Stars. Should Ridley Scott hang it up? Man his recent features have been clunkers to say the least. I read somewhere that he's taking back the reins of the Alien franchise and I've got very mixed feelings about it.
+🍿 The Dog Stars. Is it time for Ridley Scott to hang it up? I hate to say it, but his recent output has been one disappointment after another. I also read that he might be taking back the reins of the Alien franchise, which leaves me with some very mixed feelings. I love the man for what he’s given us, but maybe it’s time to let someone else cook.
 
-📖 As You Wake, Break The Shell by Becky Chambers. Every Chambers book has that quiet something that just really resonates with me. It's why I didn't hesitate to pick this one up the moment it released. I'm only a short while in but can already tell I'm going to get the same thing here.
+📖 As You Wake, Break the Shell by Becky Chambers. Every Becky Chambers book has this quiet, comforting quality that really resonates with me. I didn’t hesitate to pick this up the moment it was released. I’m only a little way in, but I can already feel that familiar magic. Sometimes you just know a book is going to work for you.
 
-🍿 You Can See Everything. Maybe the best movie I've seen all year? I need to sit with this one for a while but damn was it a ride. Nathan Fielder is a boss and I hope he gets all the awards for this.
+🍿 You Can See Everything. Maybe the best movie I’ve seen all year? I need to sit with this one for a while, but damn, what a ride. Nathan Fielder is operating on another level here. Give this man all the awards.
