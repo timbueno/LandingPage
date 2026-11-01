@@ -22,7 +22,7 @@ draft: true
 
 📺 Neagly. The Reacher show is hokey and this spinoff is even more so. That said, it's enjoyable and I'd watch another if only to talk to my Dad about it.
 
-🍿 Pigeon Kings. I wanted more Fast and Furio
+🍿 Pigeon Kings. I wanted more Fast and Furious than sad men 
 
 🍿Some Kind Of Heaven. 
 
