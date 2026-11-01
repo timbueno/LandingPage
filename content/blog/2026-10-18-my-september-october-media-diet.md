@@ -10,7 +10,7 @@ draft: true
 
 🍿 Coyote vs ACME. 
 
-🍿 Disclosure Day. What are you doing Spielberg? This movie is so forgettable 
+🍿 Disclosure Day. What are you doing Spielberg? This movie is so forgettable and 
 
 🍿 Toy Story 5.
 
