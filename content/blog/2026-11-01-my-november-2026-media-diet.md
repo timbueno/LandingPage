@@ -5,12 +5,4 @@ modified: 2026-11-01T10:00:51-05:00
 draft: true
 ---
 
-Heres what else I was up to last month:
-Jdjdhdhdhdhd
-Jdjdjdhdhdj
-Jdjdjdjdjdjd
-Jdjdjdj
-Sndjdjdjdjdhd
-
-
-Jdjdjd
+Heres what else I was up to last
