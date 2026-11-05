@@ -7,5 +7,7 @@ draft: true
 
 Heres what else I was up to last month:
 
-Cyberpunk 2077: Edgerunners.
+📺 Cyberpunk 2077: Edgerunners.
+
+📺 Get Jiro.
 
