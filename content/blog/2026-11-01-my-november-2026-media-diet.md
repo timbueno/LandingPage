@@ -25,5 +25,5 @@ Heres what else I was up to last month:
 
 📺 The Gilded Age.
 
-12. 12. 
+12. 12. 12.
 
