@@ -27,13 +27,3 @@ Heres what else I was up to last month:
 
 📺 12. 12. 12.
 
-Hunger games sing song and snakes. 
-
-Hunger games hamiches revenge 
-
-The Whole Nine Yards
-
-Hunger Games Mocking Jay 1 and 2
-
-
-
